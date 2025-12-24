@@ -11,7 +11,7 @@ Comprender qué características de los clientes, contratos y servicios están r
 
 📂 Contenido del Repositorio
 
-TelecomX_LATAM.ipynb → Notebook con el análisis completo
+Analisis de churn.ipynb → Notebook con el análisis completo
 
 README.md → Descripción del proyecto
 
