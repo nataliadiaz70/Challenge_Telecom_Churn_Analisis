@@ -1,4 +1,6 @@
-📊 Telecom X – Análisis de Churn
+📊 Telecom X – Análisis de Churn.
+
+
 📝 Descripción
 
 Análisis exploratorio de datos sobre clientes de una empresa de telecomunicaciones con el objetivo de identificar factores asociados a la evasión de clientes (Churn) y generar insights que ayuden a mejorar la retención.
