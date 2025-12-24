@@ -57,4 +57,4 @@ Proyecto finalizado – enfoque en análisis exploratorio (sin modelo predictivo
 
 ✍️ Autora
 
-Natalia
+Natalia Maria Diaz
